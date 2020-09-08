@@ -1,6 +1,10 @@
 # MODULE ASSEMBLEUR
 
-### Liste des fonctions:
+
+Le projet consiste en la création de fonctions classique de **C** en **ASM**
+
+
+Liste des fonctions:
  
 *    memcpy
 *    memmove
